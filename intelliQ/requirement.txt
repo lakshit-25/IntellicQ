@@ -1,0 +1,11 @@
+firebase-admin
+Flask
+assemblyai
+openai
+pandas
+werkzeug
+datetime
+flask_cors
+SpeechRecognition
+google-cloud-speech
+python-pptx
